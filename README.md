@@ -1,4 +1,7 @@
 ### 流式中文网2020年1月8日服务器系统升级进度
+
+[![Join the chat at https://gitter.im/flowcyto/community](https://badges.gitter.im/flowcyto/community.svg)](https://gitter.im/flowcyto/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - 2020年1月8日 22:00 关闭论坛。
 - 2020年1月8日 22:51，服务器迁移成功，论坛升级完成。域名转向需稍等半小时完成。
 
